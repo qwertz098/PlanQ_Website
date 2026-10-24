@@ -3,6 +3,8 @@
 Static website for PlanQ. Plain HTML and CSS, no build step.
 
 - `index.html` is the landing page.
+- `impressum.html` and `datenschutz.html` are the legal pages.
+- `style.css` is shared by all pages.
 - `img/` holds the app screenshots shown on the page.
 
 Open `index.html` in a browser to preview it locally.
